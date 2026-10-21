@@ -1,0 +1,39 @@
+# Social Image Sizer
+
+> Free browser tool that resizes one image to every major social media size in 2026 and downloads them one at a time or as a ZIP. Nothing is uploaded; all cropping happens on a canvas in the browser. It has a draggable focal point, per-size zoom, safe-zone overlays where platforms cover the image, and JPG/PNG/WebP export with quality control.
+
+URL: https://mizoz.github.io/social-image-sizer/
+Source: https://github.com/mizoz/social-image-sizer
+Last updated: 2026-10-21
+
+## Sizes it exports (pixels)
+
+| Platform | Placement | Size | Ratio |
+|---|---|---|---|
+| Instagram | Post, square | 1080x1080 | 1:1 |
+| Instagram | Post, portrait | 1080x1350 | 4:5 |
+| Instagram | Story | 1080x1920 | 9:16 (keep top and bottom 250 px clear) |
+| Instagram | Reel cover | 1080x1920 | 9:16 |
+| Facebook | Feed post | 1080x1350 | 4:5 |
+| Facebook | Cover photo | 1640x624 | displays 820x312 desktop, 640x360 phone |
+| Facebook | Event cover | 1920x1005 | 1.91:1 |
+| LinkedIn | Post / link image | 1200x627 | 1.91:1 |
+| LinkedIn | Personal profile banner | 1584x396 | 4:1 |
+| LinkedIn | Company page cover | 1512x256 | official LinkedIn Pages spec |
+| LinkedIn | Article / newsletter cover | 1920x1080 | 16:9 |
+| X | Post image | 1600x900 | 16:9 (recommended) |
+| X | Header | 1500x500 | 3:1 |
+| YouTube | Thumbnail (HD) | 1280x720 | 16:9, fits the 2 MB phone upload limit |
+| YouTube | Thumbnail (4K) | 3840x2160 | 16:9, YouTube's current recommendation |
+| YouTube | Channel banner | 2560x1440 | safe area 1546x423 |
+| TikTok | Photo / video cover | 1080x1920 | 9:16, safe area 880x1220 (recommended) |
+| Pinterest | Standard pin | 1000x1500 | 2:3 |
+| Threads | Post image | 1080x1350 | 4:5 (recommended) |
+| Bluesky | Post image | 1200x675 | 16:9 (recommended) |
+| Bluesky | Profile banner | 3000x1000 | 3:1 (recommended) |
+| Google | Business Profile photo | 720x720 | 1:1 |
+| Web | Open Graph / link preview | 1200x630 | 1.91:1 |
+
+## Author
+
+Ahmed Mahmoud, Calgary, Alberta. Founder of FirstShow (https://firstshow.ca). Builds free web tools for marketers, event and comms teams. https://mizoz.github.io/
