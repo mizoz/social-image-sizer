@@ -2,7 +2,7 @@
 
 Resize one image to every social media size and download them all.
 
-**Live: https://mizoz.github.io/social-image-sizer/**
+**Live: https://lab.zalastack.com/social-image-sizer/**
 
 ![Social Image Sizer with a sample image loaded](docs/screenshot.png)
 

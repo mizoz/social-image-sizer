@@ -2,7 +2,7 @@
 
 > Free browser tool that resizes one image to every major social media size in 2026 and downloads them one at a time or as a ZIP. Nothing is uploaded; all cropping happens on a canvas in the browser. It has a draggable focal point, per-size zoom, safe-zone overlays where platforms cover the image, and JPG/PNG/WebP export with quality control.
 
-URL: https://mizoz.github.io/social-image-sizer/
+URL: https://lab.zalastack.com/social-image-sizer/
 Source: https://github.com/mizoz/social-image-sizer
 Last updated: 2026-10-21
 
@@ -36,4 +36,4 @@ Last updated: 2026-10-21
 
 ## Author
 
-Ahmed Mahmoud, Calgary, Alberta. Founder of FirstShow (https://firstshow.ca). Builds free web tools for marketers, event and comms teams. https://mizoz.github.io/
+Ahmed Mahmoud, Calgary, Alberta. Founder of FirstShow (https://firstshow.ca). Builds free web tools for marketers, event and comms teams. https://lab.zalastack.com/
